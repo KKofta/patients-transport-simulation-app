@@ -30,8 +30,7 @@ In the project following algorithms were used:
 
 #### Preview
 
-
-
+<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Preview.gif">
 
 ---
 
@@ -108,5 +107,13 @@ In order to run application locally you must have installed JDK 11.
 ---
 
 ### Screenshots
+
+* Original map:
+
+<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Map1.png">
+
+* Other sample map:
+
+<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Map2.png">
 
 ---
