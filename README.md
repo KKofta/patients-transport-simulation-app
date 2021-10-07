@@ -110,10 +110,10 @@ In order to run application locally you must have installed JDK 11.
 
 * Original map:
 
-<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Map1.png">
+<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Map1.png" alt="Original Map Image">
 
 * Other sample map:
 
-<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Map2.png">
+<img src="https://github.com/KKofta/patients-transport-simulation-app/blob/master/docs/Preview/Map2.png" alt="Sample Map Image">
 
 ---
