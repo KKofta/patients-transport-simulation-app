@@ -14,7 +14,7 @@
 
 ### General information
 
-Patients transport simulation app is a desktop application with wich it is possible to optimize and simulate transport of patients to hospitals in the shortest time possible. 
+Patients transport simulation app is a desktop application with which it is possible to optimize and simulate transport of patients to hospitals in the shortest time possible. 
 
 Basic rules: 
 1. At the beginning an ambulance moves the first patient (determined by patients id) to the nearest hospital;
